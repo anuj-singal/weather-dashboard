@@ -47,23 +47,6 @@ A simple Weather Dashboard web app built using **HTML, CSS, and JavaScript**, wh
 
 ---
 
-## ▶️ After Installation – How to Use
-
-1. ✅ **Enter a City Name**  
-   - Type a city like `London`, `New York`, or `Delhi` in the input field
-
-2. ➕ **Click on "Add City"**  
-   - The city gets saved using **Local Storage**
-
-3. 🌦️ **Click a City from the List**  
-   - See real-time weather details like:
-     - Temperature (°C)
-     - Weather description
-
-4. 🔁 **Auto-saved**  
-   - Your city list stays even after reloading the page
-
----
 
 ## 🧪 Tech Stack
 
@@ -82,3 +65,10 @@ A simple Weather Dashboard web app built using **HTML, CSS, and JavaScript**, wh
     <img src="https://img.shields.io/badge/GitHub-Anuj_Singal-blue?logo=github&style=for-the-badge"/>
   </a>
 </p>
+
+---
+
+## 📄 License
+This project is licensed under the MIT License.
+
+
