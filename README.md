@@ -7,7 +7,7 @@ A simple Weather Dashboard web app built using **HTML, CSS, and JavaScript**, wh
 ## 📸 Screenshot
 
 <p align="center">
-  <img src="./screenshot.png" alt="Weather Dashboard Screenshot" width="500"/>
+  <img src="./screenshot.png" alt="Weather Dashboard screenshot" width="500"/>
 </p>
 
 ---
@@ -70,5 +70,6 @@ A simple Weather Dashboard web app built using **HTML, CSS, and JavaScript**, wh
 
 ## 📄 License
 This project is licensed under the MIT License.
+
 
 
